@@ -22,7 +22,7 @@ print('Hola Mundo dos')
 print("I can't do it")
 print('His name is "Roberto"')
 
-# Operaciones
+# Operaciones 
 
 #suma
 a = 5
@@ -92,7 +92,7 @@ a = '3'
 b = int(a)
 print(type(b))
 
-# Convertir de x a deimal
+# Convertir de x a decimal
 a = 3
 b = float(a)
 print(type(b))
